@@ -1,0 +1,563 @@
+.menu {
+	width:1900px;
+	height:80px;
+	background:#050032;
+	
+}
+
+
+body{
+	background:#F0EAD6;
+	
+}
+
+
+a {
+	color:white;
+	margin:90px;
+	font-size:25px;
+	font-family:arial;
+	padding: 10px;
+	text-decoration: none;
+	line-height: 75px;
+}
+
+
+
+#a1:hover {
+	color:red;
+	font-family:sans-serif;
+	font-size:20px;
+	background:yellow;
+}
+
+
+
+#a2:hover {
+	color:blue;
+	font-family:arial;
+	font-size:20px;
+	background:#99FF14;
+}
+
+
+#a3:hover {
+	color:orange;
+	font-family:arial;
+	font-size:20px;
+	background:#9C46FF;
+}
+
+
+#a4:hover {
+	color:green;
+	font-family:cursive;
+	font-size:20px;
+	background:#AD8CFF;
+}
+
+
+#a5:hover {
+	color:gold;
+	font-family:serif;
+	font-size:20px;
+	background:red;
+}
+
+
+#a6:hover {
+	font-size:20px;
+	font-family:cursive;
+	color:#FF00E6;
+	background:#5AFF78;
+}
+
+.some {
+	width:400px;
+	height:1500px;
+	float: top;
+	
+	
+}
+
+.vernagir {
+	text-align:center;
+    color: darkred;
+    font-size: 70px;
+    
+}
+
+.nkar {
+	width:400px;
+	height:250px;
+    
+}
+
+
+.vernagir{
+	
+	color: yellow;
+	
+}
+
+.child {
+	
+	border:1px solid;
+    height:680px;
+	background: palegreen;
+	
+}
+
+.glux{
+    background-color: #22232c;
+    max-width: 1900px;
+    height: 100px;
+	
+}
+
+.child .mis{
+		text-transform: uppercase;
+		font-size: 23px;
+		letter-spacing: 3px;
+		text-align: center;
+		background-color: darkgoldenrod;
+		color: gold;
+	}
+
+ .menu1{
+	width: 400px;
+	text-align: center;
+	font-size: 22px;
+	color: black;
+	background: palegoldenrod;
+ }
+
+ .img1{
+	float: right;
+	margin: 20px;
+ }
+
+ .img2{
+	float: right;
+	margin: 20px;
+ }
+
+
+
+ #bud{
+	 width: 300px;
+	 height: 300px;
+	 opacity: 0.8;
+	 margin: 25px;
+	 
+ }
+
+ #bud:hover{
+	 opacity: 1;
+ }
+
+ .dv1{
+	display: inline-block;
+	
+}
+
+ .dv1:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red ;
+	display: inline-block;
+
+	
+ }
+
+
+
+
+ #iqibir{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+ }
+
+ #iqibir:hover{
+	opacity: 1;
+}
+
+
+.dv2{
+	display: inline-block;
+}
+
+.dv2:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+
+#havg{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+
+}
+
+#havg:hover{
+	opacity: 1;
+}
+
+.dv3{
+	display: inline-block;
+}
+
+.dv3:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#havbud{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#havbud:hover{
+	opacity: 1;
+}
+
+.dv4{
+	display: inline-block;
+}
+
+.dv4:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+
+#havsh{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#havsh:hover{
+	opacity: 1;
+}
+
+.dv5{
+	display: inline-block;
+}
+
+.dv5:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#sunk{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+	
+}
+
+#sunk:hover{
+	opacity: 1;
+}
+
+.dv6{
+	display: inline-block;
+}
+
+.dv6:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+
+#havqyabab{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+	
+}
+
+#havqyabab:hover{
+	opacity: 1;
+}
+
+.dv7{
+	display: inline-block;
+}
+
+.dv7:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#xozsh{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#xozsh:hover{
+	opacity: 1;
+}
+
+.dv8{
+	display: inline-block;
+}
+
+
+.dv8:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+
+.burger{
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+	text-shadow: 2px 2px ;
+	background: lavender;
+	color: navy;
+
+}
+
+.menu2{
+	width: 400px;
+	height: 680px;
+	text-align: center;
+	font-size: 22px;
+	color: yellow;
+	background:#1893B5 ;
+	font-style: italic;
+}
+
+
+
+
+#klasburg{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#klasburg:hover{
+	opacity: 1;
+}
+
+.dv9{
+	display: inline-block;
+}
+
+.dv9:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#bekonburg{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#bekonburg:hover{
+	opacity: 1;
+}
+
+.dv10{
+	display: inline-block;
+}
+
+.dv10:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#chikburg{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#chikburg:hover{
+	opacity: 1;
+}
+
+.dv11{
+	display: inline-block;
+}
+
+.dv11:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#amerikyan{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#amerikyan:hover{
+	opacity: 1;
+}
+
+.dv12{
+	display: inline-block;
+}
+
+.dv12:hover{
+	width: 350px;
+	height: 350px;
+	border:3px solid red ;
+}
+
+
+
+
+#mocarela{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#mocarela:hover{
+	opacity: 1;
+}
+
+.dv13{
+	display: inline-block;
+}
+
+.dv13:hover{
+	width: 350px;
+	height: 350px;
+	border:3px solid red ;
+}
+
+
+
+
+#minichez{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#minichez:hover{
+	opacity: 1;	
+}
+
+.dv14{
+	display: inline-block;
+}
+
+.dv14:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+
+
+#miniklasik{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+}
+
+#miniklasik:hover{
+	opacity: 1;	
+}
+
+.dv15{
+	display: inline-block;
+}
+
+.dv15:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+}
+
+
+#minichiken{
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+	opacity: 0.8;
+	
+}
+
+#minichiken:hover{
+	opacity: 1;	
+}
+
+.dv16{
+	display: inline-block;
+}
+
+.dv16:hover{
+	width: 350px;
+	height: 350px;
+	border: 3px solid red;
+	
+}
